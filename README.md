@@ -128,6 +128,21 @@ for (uint i = 0; i < fin * fin; i++)
 |     2     |   50    |     F     |   70    |     Z     |   90    |
 |     3     |   51    |     G     |   71    |     [     |   91    |
 
-```
+# Contribution
 
-```
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+# Issues
+
+If anyone is looking to make some contribution, then following are the issues that you can solve.
+
+- Grammar check | Spelling mistakes
+- Code optimization
+
+# License
+
+[LGPL-3.0](/LICENSE)
+
+# Acknowledgments
+
+Discrete Mathematics and Its Applications by Kenneth H. Rosen
