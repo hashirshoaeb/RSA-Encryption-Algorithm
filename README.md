@@ -130,8 +130,8 @@ for (uint i = 0; i < fin * fin; i++)
 
 # [DLL](READMEdocs/SSoS_HS.dll)
 
-namespace: SSoS_HS
-classes : Encryptor , DataEncrypt
+- namespace: SSoS_HS
+- classes : Encryptor , DataEncrypt
 
 # Contribution
 
