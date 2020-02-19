@@ -128,6 +128,11 @@ for (uint i = 0; i < fin * fin; i++)
 |     2     |   50    |     F     |   70    |     Z     |   90    |
 |     3     |   51    |     G     |   71    |     [     |   91    |
 
+# [DLL](READMEdocs/SSoS_HS.dll)
+
+namespace: SSoS_HS
+classes : Encryptor , DataEncrypt
+
 # Contribution
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
